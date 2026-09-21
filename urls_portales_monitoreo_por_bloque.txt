@@ -1,0 +1,1567 @@
+el siguiente es el listado de medios de comunicación digitales que componen el ambiente de la información ruso, en nuestro proyecto de monitoreo de osint ayudame a limpiar los url para quedar con los clave para monitorear los temas de interés no cierres el listado por temas de idioma, es exactamente ncesario ver las versiones de idiomas diferentes
+
+RUSIA:
+
+rt.com
+actualidad.rt.com
+arabic.rt.com
+francais.rt.com
+rtenfrancais.tv
+rt.rs
+balkans.rt.com
+deutsch.rt.com
+rtd.rt.com
+ruptly.tv
+redfish.media
+inotv.rt.com
+tvnovosti.ru
+
+sputnikglobe.com
+sputniknews.com
+wire.sputniknews.com
+noticiaslatam.lat
+mundo.sputniknews.com
+noticiabrasil.net.br
+sarabic.ae
+sputnikarabic.ae
+sputniknews.cn
+sputniknews.in
+en.sputniknews.africa
+fr.sputniknews.africa
+amh.sputniknews.africa
+sputniknews.ru
+ru.sputniknews.ru
+sputnik.by
+am.sputniknews.ru
+ru.sputnik.kg
+sputnik.kg
+tj.sputniknews.ru
+sputnik.tj
+ru.sputnik.kz
+sputnik.kz
+md.sputniknews.ru
+md.sputniknews.com
+ro.sputniknews.com
+sputnik-abkhazia.info
+sputnik-abkhazia.ru
+sputnik-ossetia.ru
+sputnikportal.rs
+rs-lat.sputniknews.com
+kevesko.vn
+sputniknews.uz
+uz.sputniknews.ru
+
+tass.com
+tass.ru
+tassphoto.com
+info.itar-tass.com
+ria.ru
+sn.ria.ru
+ri.ria.ru
+rossiyasegodnya.com
+rg.ru
+rgmedia.rg.ru
+iz.ru
+ren.tv
+5-tv.ru
+78.ru
+kommersant.ru
+fm.kommersant.ru
+rbc.ru
+tv.rbc.ru
+pro.rbc.ru
+quote.rbc.ru
+vedomosti.ru
+spb.vedomosti.ru
+south.vedomosti.ru
+lenta.ru
+rambler.ru
+news.rambler.ru
+gazeta.ru
+mk.ru
+kp.ru
+radiokp.ru
+fontanka.ru
+ng.ru
+nvo.ng.ru
+novayagazeta.eu
+
+CHINA:
+
+news.cn
+xinhuanet.com
+english.news.cn
+spanish.news.cn
+french.news.cn
+russian.news.cn
+arabic.news.cn
+japanese.news.cn
+korean.news.cn
+german.news.cn
+portuguese.news.cn
+
+cgtn.com
+news.cgtn.com
+espanol.cgtn.com
+francais.cgtn.com
+arabic.cgtn.com
+russian.cgtn.com
+radio.cgtn.com
+america.cgtn.com
+africa.cgtn.com
+newseu.cgtn.com
+cctvplus.com
+
+people.com.cn
+people.cn
+peopledaily.com.cn
+english.people.com.cn
+spanish.peopledaily.com.cn
+french.people.com.cn
+russian.people.com.cn
+arabic.people.com.cn
+japanese.people.com.cn
+korean.people.com.cn
+portuguese.people.com.cn
+peoplesdaily.pdnews.cn
+
+globaltimes.cn
+cctv.com
+news.cctv.com
+tv.cctv.com
+opinion.cctv.com
+english.cctv.com
+espanol.cctv.com
+arabic.cctv.com
+russian.cctv.com
+cntv.cn
+
+chinadaily.com.cn
+global.chinadaily.com.cn
+chinadailyhk.com
+chinadailyasia.com
+usa.chinadaily.com.cn
+europe.chinadaily.com.cn
+africa.chinadaily.com.cn
+
+gmw.cn
+en.gmw.cn
+news.gmw.cn
+politics.gmw.cn
+world.gmw.cn
+mil.gmw.cn
+theory.gmw.cn
+dangjian.gmw.cn
+epaper.gmw.cn
+
+ce.cn
+en.ce.cn
+news.ce.cn
+politics.ce.cn
+intl.ce.cn
+finance.ce.cn
+industry.ce.cn
+energy.ce.cn
+tech.ce.cn
+opinion.ce.cn
+paper.ce.cn
+
+chinanews.com.cn
+ecns.cn
+m.chinanews.com
+
+caixin.com
+caixinglobal.com
+china.caixin.com
+economy.caixin.com
+finance.caixin.com
+international.caixin.com
+opinion.caixin.com
+insight.caixin.com
+
+caijing.com.cn
+economy.caijing.com.cn
+finance.caijing.com.cn
+stock.caijing.com.cn
+industry.caijing.com.cn
+tech.caijing.com.cn
+world.caijing.com.cn
+opinion.caijing.com.cn
+english.caijing.com.cn
+
+yicai.com
+yicaiglobal.com
+www2.yicaiglobal.com
+
+cls.cn
+h5.cls.cn
+chinastarmarket.cn
+
+jiemian.com
+en.jiemian.com
+lanjinger.com
+
+thepaper.cn
+sixthtone.com
+ipshanghai.cn
+
+news.sina.com.cn
+sina.com.cn
+english.sina.com
+weibo.com
+s.weibo.com
+m.weibo.cn
+
+news.qq.com
+new.qq.com
+xw.qq.com
+mil.qq.com
+finance.qq.com
+tech.qq.com
+v.qq.com
+mp.weixin.qq.com
+weixin.qq.com
+tencent.com
+
+news.163.com
+163.com
+war.163.com
+military.163.com
+money.163.com
+tech.163.com
+dy.163.com
+mp.163.com
+
+ifeng.com
+news.ifeng.com
+mil.ifeng.com
+finance.ifeng.com
+tech.ifeng.com
+v.ifeng.com
+phtv.ifeng.com
+
+news.sohu.com
+sohu.com
+mil.sohu.com
+finance.sohu.com
+tech.sohu.com
+tv.sohu.com
+mp.sohu.com
+
+toutiao.com
+m.toutiao.com
+mp.toutiao.com
+douyin.com
+ixigua.com
+bytedance.com
+
+infzm.com
+nfpeople.com
+southcn.com
+oeeee.com
+21jingji.com
+
+bjnews.com.cn
+bkeconomy.com
+qianlong.com
+
+guancha.cn
+m.guancha.cn
+user.guancha.cn
+
+ESPAÑA:
+
+Agencia EFE:
+URL central: https://efe.com
+URL filiales:
+- https://efe.com/english
+- https://efeagro.com
+- https://www.fundeu.es
+- https://www.epa.eu
+
+El País:
+URL central: https://elpais.com
+URL filiales:
+- No identificadas en este listado
+
+El Mundo:
+URL central: https://www.elmundo.es
+URL filiales:
+- No identificadas en este listado
+
+ABC España:
+URL central: https://www.abc.es
+URL filiales:
+- No identificadas en este listado
+
+La Vanguardia:
+URL central: https://www.lavanguardia.com
+URL filiales:
+- No identificadas en este listado
+
+Público:
+URL central: https://www.publico.es
+URL filiales:
+- No identificadas en este listado
+
+Maldita.es:
+URL central: https://maldita.es
+URL filiales:
+- No identificadas en este listado
+
+Newtral:
+URL central: https://www.newtral.es
+URL filiales:
+- No identificadas en este listado
+
+
+REINO UNIDO:
+
+BBC:
+URL central: https://www.bbc.com/news
+URL filiales:
+- https://www.bbc.com/mundo
+- https://www.bbc.co.uk/worldserviceradio
+
+Reuters:
+URL central: https://www.reuters.com
+URL filiales:
+- https://pictures.reuters.com
+- https://www.reutersconnect.com
+- https://reutersinstitute.politics.ox.ac.uk
+- https://www.reuters.com/fact-check
+
+Financial Times:
+URL central: https://www.ft.com
+URL filiales:
+- No identificadas en este listado
+
+The Guardian:
+URL central: https://www.theguardian.com
+URL filiales:
+- No identificadas en este listado
+
+The Economist:
+URL central: https://www.economist.com
+URL filiales:
+- No identificadas en este listado
+
+The Telegraph:
+URL central: https://www.telegraph.co.uk
+URL filiales:
+- No identificadas en este listado
+
+The Independent:
+URL central: https://www.independent.co.uk
+URL filiales:
+- No identificadas en este listado
+
+Sky News:
+URL central: https://news.sky.com
+URL filiales:
+- No identificadas en este listado
+
+PA Media:
+URL central: https://www.pressassociation.com
+URL filiales:
+- No identificadas en este listado
+
+Janes:
+URL central: https://www.janes.com
+URL filiales:
+- No identificadas en este listado
+
+RUSI:
+URL central: https://www.rusi.org
+URL filiales:
+- No identificadas en este listado
+
+IISS:
+URL central: https://www.iiss.org
+URL filiales:
+- No identificadas en este listado
+
+
+FRANCIA:
+
+Agence France-Presse / AFP:
+URL central: https://www.afp.com
+URL filiales:
+- https://factcheck.afp.com
+- https://www.afpforum.com
+- https://factual.afp.com
+
+France 24:
+URL central: https://www.france24.com
+URL filiales:
+- https://www.france24.com/es
+- https://www.france24.com/en
+- https://www.france24.com/fr
+- https://www.france24.com/ar
+
+RFI:
+URL central: https://www.rfi.fr
+URL filiales:
+- https://www.rfi.fr/es
+
+Le Monde:
+URL central: https://www.lemonde.fr
+URL filiales:
+- No identificadas en este listado
+
+Le Figaro:
+URL central: https://www.lefigaro.fr
+URL filiales:
+- No identificadas en este listado
+
+Mediapart:
+URL central: https://www.mediapart.fr
+URL filiales:
+- No identificadas en este listado
+
+
+ALEMANIA:
+
+Deutsche Welle / DW:
+URL central: https://www.dw.com
+URL filiales:
+- https://www.dw.com/es
+- https://www.dw.com/en
+- https://www.dw.com/de
+- https://www.dw.com/ar
+
+DPA:
+URL central: https://www.dpa.com
+URL filiales:
+- No identificadas en este listado
+
+Der Spiegel:
+URL central: https://www.spiegel.de
+URL filiales:
+- No identificadas en este listado
+
+Die Zeit:
+URL central: https://www.zeit.de
+URL filiales:
+- No identificadas en este listado
+
+FAZ:
+URL central: https://www.faz.net
+URL filiales:
+- No identificadas en este listado
+
+
+ITALIA:
+
+ANSA:
+URL central: https://www.ansa.it
+URL filiales:
+- No identificadas en este listado
+
+Corriere della Sera:
+URL central: https://www.corriere.it
+URL filiales:
+- No identificadas en este listado
+
+La Repubblica:
+URL central: https://www.repubblica.it
+URL filiales:
+- No identificadas en este listado
+
+
+ESTADOS UNIDOS:
+
+Associated Press / AP:
+URL central: https://apnews.com
+URL filiales:
+- https://www.apimages.com
+- https://www.aparchive.com
+- https://www.apstylebook.com
+- https://apnews.com/hub/ap-fact-check
+
+CNN:
+URL central: https://www.cnn.com
+URL filiales:
+- https://cnnespanol.cnn.com
+- https://edition.cnn.com
+
+Voice of America / VOA:
+URL central: https://www.voanews.com
+URL filiales:
+- https://www.vozdeamerica.com
+- https://www.voaafrica.com
+- https://ir.voanews.com
+
+The New York Times:
+URL central: https://www.nytimes.com
+URL filiales:
+- No identificadas en este listado
+
+The Washington Post:
+URL central: https://www.washingtonpost.com
+URL filiales:
+- No identificadas en este listado
+
+The Wall Street Journal:
+URL central: https://www.wsj.com
+URL filiales:
+- No identificadas en este listado
+
+Bloomberg:
+URL central: https://www.bloomberg.com
+URL filiales:
+- No identificadas en este listado
+
+Politico:
+URL central: https://www.politico.com
+URL filiales:
+- https://www.politico.eu
+
+Axios:
+URL central: https://www.axios.com
+URL filiales:
+- No identificadas en este listado
+
+Defense News:
+URL central: https://www.defensenews.com
+URL filiales:
+- No identificadas en este listado
+
+Breaking Defense:
+URL central: https://breakingdefense.com
+URL filiales:
+- No identificadas en este listado
+
+The War Zone / TWZ:
+URL central: https://www.twz.com
+URL filiales:
+- No identificadas en este listado
+
+Military Times:
+URL central: https://www.militarytimes.com
+URL filiales:
+- No identificadas en este listado
+
+War on the Rocks:
+URL central: https://warontherocks.com
+URL filiales:
+- No identificadas en este listado
+
+CSIS:
+URL central: https://www.csis.org
+URL filiales:
+- No identificadas en este listado
+
+Small Wars Journal:
+URL central: https://smallwarsjournal.com
+URL filiales:
+- No identificadas en este listado
+
+Long War Journal:
+URL central: https://www.longwarjournal.org
+URL filiales:
+- No identificadas en este listado
+
+The Record / Recorded Future News:
+URL central: https://therecord.media
+URL filiales:
+- No identificadas en este listado
+
+BleepingComputer:
+URL central: https://www.bleepingcomputer.com
+URL filiales:
+- No identificadas en este listado
+
+CyberScoop:
+URL central: https://cyberscoop.com
+URL filiales:
+- No identificadas en este listado
+
+Dark Reading:
+URL central: https://www.darkreading.com
+URL filiales:
+- No identificadas en este listado
+
+Mandiant / Google Cloud Threat Intelligence:
+URL central: https://cloud.google.com/blog/topics/threat-intelligence
+URL filiales:
+- No identificadas en este listado
+
+Microsoft Security Insider / Threat Intelligence:
+URL central: https://www.microsoft.com/en-us/security/security-insider
+URL filiales:
+- No identificadas en este listado
+
+IntelNews:
+URL central: https://intelnews.org
+URL filiales:
+- No identificadas en este listado
+
+PolitiFact:
+URL central: https://www.politifact.com
+URL filiales:
+- No identificadas en este listado
+
+FactCheck.org:
+URL central: https://www.factcheck.org
+URL filiales:
+- No identificadas en este listado
+
+
+CANADÁ:
+
+CBC News:
+URL central: https://www.cbc.ca/news
+URL filiales:
+- No identificadas en este listado
+
+
+AUSTRALIA:
+
+ABC Australia:
+URL central: https://www.abc.net.au/news
+URL filiales:
+- No identificadas en este listado
+
+
+JAPÓN:
+
+NHK World Japan:
+URL central: https://www3.nhk.or.jp/nhkworld
+URL filiales:
+- No identificadas en este listado
+
+Kyodo News:
+URL central: https://english.kyodonews.net
+URL filiales:
+- No identificadas en este listado
+
+Jiji Press:
+URL central: https://www.jiji.com
+URL filiales:
+- No identificadas en este listado
+
+Nikkei Asia:
+URL central: https://asia.nikkei.com
+URL filiales:
+- No identificadas en este listado
+
+
+COREA DEL SUR:
+
+KBS World:
+URL central: https://world.kbs.co.kr
+URL filiales:
+- No identificadas en este listado
+
+Yonhap:
+URL central: https://en.yna.co.kr
+URL filiales:
+- No identificadas en este listado
+
+
+CATAR:
+
+Al Jazeera:
+URL central: https://www.aljazeera.com
+URL filiales:
+- https://www.aljazeera.net
+- https://studies.aljazeera.net
+- https://institute.aljazeera.net
+- https://learning.aljazeera.net
+
+Qatar News Agency / QNA:
+URL central: https://www.qna.org.qa
+URL filiales:
+- No identificadas en este listado
+
+
+TURQUÍA:
+
+Anadolu Agency:
+URL central: https://www.aa.com.tr
+URL filiales:
+- https://www.aa.com.tr/es
+- https://www.aa.com.tr/en
+- https://www.aa.com.tr/tr
+- https://www.aa.com.tr/ar
+- https://www.aa.com.tr/fr
+- https://www.aa.com.tr/ru
+
+TRT World:
+URL central: https://www.trtworld.com
+URL filiales:
+- No identificadas en este listado
+
+
+IRÁN:
+
+IRNA:
+URL central: https://www.irna.ir
+URL filiales:
+- https://es.irna.ir
+- https://en.irna.ir
+- https://ar.irna.ir
+
+Press TV:
+URL central: https://www.presstv.ir
+URL filiales:
+- https://www.hispantv.com
+
+
+CUBA:
+
+Prensa Latina:
+URL central: https://www.prensa-latina.cu
+URL filiales:
+- https://www.plenglish.com
+
+
+VENEZUELA:
+
+teleSUR:
+URL central: https://www.telesurtv.net
+URL filiales:
+- https://www.telesurenglish.net
+
+El Nacional:
+URL central: https://www.elnacional.com
+URL filiales:
+- No identificadas en este listado
+
+Efecto Cocuyo:
+URL central: https://efectococuyo.com
+URL filiales:
+- No identificadas en este listado
+
+TalCual:
+URL central: https://talcualdigital.com
+URL filiales:
+- No identificadas en este listado
+
+
+COLOMBIA:
+
+El Tiempo:
+URL central: https://www.eltiempo.com
+URL filiales:
+- https://www.portafolio.co
+- https://www.futbolred.com
+- https://citytv.eltiempo.com
+
+Semana:
+URL central: https://www.semana.com
+URL filiales:
+- https://www.semana.com/economia/
+- https://www.soho.co
+- https://www.fucsia.co
+
+Caracol:
+URL central: https://caracol.com.co
+URL filiales:
+- https://www.noticiascaracol.com
+- https://www.bluradio.com
+
+El Espectador:
+URL central: https://www.elespectador.com
+URL filiales:
+- No identificadas en este listado
+
+La Silla Vacía:
+URL central: https://www.lasillavacia.com
+URL filiales:
+- No identificadas en este listado
+
+W Radio Colombia:
+URL central: https://www.wradio.com.co
+URL filiales:
+- No identificadas en este listado
+
+RCN Radio:
+URL central: https://www.rcnradio.com
+URL filiales:
+- No identificadas en este listado
+
+RTVC Noticias:
+URL central: https://www.rtvcnoticias.com
+URL filiales:
+- No identificadas en este listado
+
+Razón Pública:
+URL central: https://razonpublica.com
+URL filiales:
+- No identificadas en este listado
+
+Pares / Fundación Paz & Reconciliación:
+URL central: https://www.pares.com.co
+URL filiales:
+- No identificadas en este listado
+
+Insight Crime:
+URL central: https://insightcrime.org
+URL filiales:
+- No identificadas en este listado
+
+Colombiacheck:
+URL central: https://colombiacheck.com
+URL filiales:
+- No identificadas en este listado
+
+
+MÉXICO:
+
+La Jornada:
+URL central: https://www.jornada.com.mx
+URL filiales:
+- https://www.lajornadamaya.mx
+- https://www.lajornadadeoriente.com.mx
+- https://ljz.mx
+
+El Universal México:
+URL central: https://www.eluniversal.com.mx
+URL filiales:
+- https://www.elgrafico.mx
+- https://www.deultima.com
+
+Milenio:
+URL central: https://www.milenio.com
+URL filiales:
+- No identificadas en este listado
+
+Animal Político:
+URL central: https://www.animalpolitico.com
+URL filiales:
+- No identificadas en este listado
+
+
+ARGENTINA:
+
+Clarín:
+URL central: https://www.clarin.com
+URL filiales:
+- https://www.ole.com.ar
+- https://tn.com.ar
+- https://www.ciudad.com.ar
+
+La Nación Argentina:
+URL central: https://www.lanacion.com.ar
+URL filiales:
+- https://www.lugares.com.ar
+- https://es.rollingstone.com/argentina/
+
+Infobae:
+URL central: https://www.infobae.com
+URL filiales:
+- No identificadas en este listado
+
+Chequeado:
+URL central: https://chequeado.com
+URL filiales:
+- No identificadas en este listado
+
+
+BRASIL:
+
+Folha de S.Paulo:
+URL central: https://www.folha.uol.com.br
+URL filiales:
+- https://noticias.uol.com.br
+
+O Globo:
+URL central: https://oglobo.globo.com
+URL filiales:
+- https://g1.globo.com
+- https://g1.globo.com/globonews/
+- https://valor.globo.com
+
+
+PERÚ:
+
+El Comercio Perú:
+URL central: https://elcomercio.pe
+URL filiales:
+- https://peru21.pe
+- https://gestion.pe
+- https://depor.com
+- https://trome.com
+
+La República Perú:
+URL central: https://larepublica.pe
+URL filiales:
+- https://libero.pe
+- https://wapa.pe
+
+
+CHILE:
+
+El Mercurio / Emol:
+URL central: https://www.emol.com
+URL filiales:
+- https://www.lun.com
+- https://www.lasegunda.com
+
+BioBioChile:
+URL central: https://www.biobiochile.cl
+URL filiales:
+- https://www.biobiochile.cl/biobiotv/
+
+
+ECUADOR:
+
+El Universo:
+URL central: https://www.eluniverso.com
+URL filiales:
+- https://www.vistazo.com
+
+Primicias:
+URL central: https://www.primicias.ec
+URL filiales:
+- No identificadas en este listado
+
+
+BOLIVIA:
+
+El Deber:
+URL central: https://eldeber.com.bo
+URL filiales:
+- No identificadas en este listado
+
+
+PARAGUAY:
+
+ABC Color:
+URL central: https://www.abc.com.py
+URL filiales:
+- https://www.abc.com.py/tv/
+
+
+URUGUAY:
+
+El País Uruguay:
+URL central: https://www.elpais.com.uy
+URL filiales:
+- https://www.ovaciondigital.com.uy
+
+
+PANAMÁ:
+
+La Prensa Panamá:
+URL central: https://www.prensa.com
+URL filiales:
+- No identificadas en este listado
+
+TVN Noticias:
+URL central: https://www.tvn-2.com
+URL filiales:
+- No identificadas en este listado
+
+
+COSTA RICA:
+
+La Nación Costa Rica:
+URL central: https://www.nacion.com
+URL filiales:
+- No identificadas en este listado
+
+CRHoy:
+URL central: https://www.crhoy.com
+URL filiales:
+- No identificadas en este listado
+
+
+GUATEMALA:
+
+Prensa Libre:
+URL central: https://www.prensalibre.com
+URL filiales:
+- No identificadas en este listado
+
+La Hora:
+URL central: https://lahora.gt
+URL filiales:
+- No identificadas en este listado
+
+Soy502:
+URL central: https://www.soy502.com
+URL filiales:
+- No identificadas en este listado
+
+Agencia Guatemalteca de Noticias / AGN:
+URL central: https://agn.gt
+URL filiales:
+- No identificadas en este listado
+
+Plaza Pública:
+URL central: https://www.plazapublica.com.gt
+URL filiales:
+- No identificadas en este listado
+
+Emisoras Unidas:
+URL central: https://emisorasunidas.com
+URL filiales:
+- No identificadas en este listado
+
+
+HONDURAS:
+
+La Prensa Honduras:
+URL central: https://www.laprensa.hn
+URL filiales:
+- No identificadas en este listado
+
+El Heraldo Honduras:
+URL central: https://www.elheraldo.hn
+URL filiales:
+- No identificadas en este listado
+
+Criterio.hn:
+URL central: https://criterio.hn
+URL filiales:
+- No identificadas en este listado
+
+Proceso Digital:
+URL central: https://proceso.hn
+URL filiales:
+- No identificadas en este listado
+
+Radio América Honduras:
+URL central: https://www.radioamerica.hn
+URL filiales:
+- No identificadas en este listado
+
+ConfidencialHN:
+URL central: https://confidencialhn.com
+URL filiales:
+- No identificadas en este listado
+
+
+EL SALVADOR:
+
+El Faro:
+URL central: https://elfaro.net
+URL filiales:
+- No identificadas en este listado
+
+La Prensa Gráfica:
+URL central: https://www.laprensagrafica.com
+URL filiales:
+- No identificadas en este listado
+
+El Diario de Hoy:
+URL central: https://www.elsalvador.com
+URL filiales:
+- No identificadas en este listado
+
+Diario El Mundo:
+URL central: https://diario.elmundo.sv
+URL filiales:
+- No identificadas en este listado
+
+GatoEncerrado:
+URL central: https://gatoencerrado.news
+URL filiales:
+- No identificadas en este listado
+
+Revista Factum:
+URL central: https://www.revistafactum.com
+URL filiales:
+- No identificadas en este listado
+
+
+NICARAGUA:
+
+La Prensa Nicaragua:
+URL central: https://www.laprensani.com
+URL filiales:
+- No identificadas en este listado
+
+Confidencial:
+URL central: https://confidencial.digital
+URL filiales:
+- No identificadas en este listado
+
+100% Noticias:
+URL central: https://100noticias.tv
+URL filiales:
+- No identificadas en este listado
+
+Divergentes:
+URL central: https://www.divergentes.com
+URL filiales:
+- No identificadas en este listado
+
+Artículo 66:
+URL central: https://www.articulo66.com
+URL filiales:
+- No identificadas en este listado
+
+Canal 10 Nicaragua:
+URL central: https://www.canal10.com.ni
+URL filiales:
+- No identificadas en este listado
+
+
+REPÚBLICA DOMINICANA:
+
+Listín Diario:
+URL central: https://listindiario.com
+URL filiales:
+- No identificadas en este listado
+
+Diario Libre:
+URL central: https://www.diariolibre.com
+URL filiales:
+- No identificadas en este listado
+
+
+PUERTO RICO:
+
+El Nuevo Día:
+URL central: https://www.elnuevodia.com
+URL filiales:
+- No identificadas en este listado
+
+Primera Hora:
+URL central: https://www.primerahora.com
+URL filiales:
+- No identificadas en este listado
+
+
+JAMAICA:
+
+Jamaica Gleaner:
+URL central: https://jamaica-gleaner.com
+URL filiales:
+- No identificadas en este listado
+
+Jamaica Observer:
+URL central: https://www.jamaicaobserver.com
+URL filiales:
+- No identificadas en este listado
+
+The Jamaica Star:
+URL central: https://jamaica-star.com
+URL filiales:
+- No identificadas en este listado
+
+Loop Jamaica:
+URL central: https://jamaica.loopnews.com
+URL filiales:
+- No identificadas en este listado
+
+RJR Gleaner Communications Group:
+URL central: https://www.rjrnewsonline.com
+URL filiales:
+- No identificadas en este listado
+
+
+TRINIDAD Y TOBAGO:
+
+Trinidad and Tobago Guardian:
+URL central: https://www.guardian.co.tt
+URL filiales:
+- No identificadas en este listado
+
+Trinidad Express:
+URL central: https://trinidadexpress.com
+URL filiales:
+- No identificadas en este listado
+
+Newsday Trinidad and Tobago:
+URL central: https://newsday.co.tt
+URL filiales:
+- No identificadas en este listado
+
+CNC3:
+URL central: https://www.cnc3.co.tt
+URL filiales:
+- No identificadas en este listado
+
+Loop Trinidad and Tobago:
+URL central: https://tt.loopnews.com
+URL filiales:
+- No identificadas en este listado
+
+
+BARBADOS:
+
+Barbados Today:
+URL central: https://barbadostoday.bb
+URL filiales:
+- No identificadas en este listado
+
+Nation News Barbados:
+URL central: https://www.nationnews.com
+URL filiales:
+- No identificadas en este listado
+
+Loop Barbados:
+URL central: https://barbados.loopnews.com
+URL filiales:
+- No identificadas en este listado
+
+CBC Barbados:
+URL central: https://www.cbc.bb
+URL filiales:
+- No identificadas en este listado
+
+
+GUYANA:
+
+Stabroek News:
+URL central: https://www.stabroeknews.com
+URL filiales:
+- No identificadas en este listado
+
+Demerara Waves:
+URL central: https://demerarawaves.com
+URL filiales:
+- No identificadas en este listado
+
+Guyana Chronicle:
+URL central: https://guyanachronicle.com
+URL filiales:
+- No identificadas en este listado
+
+Kaieteur News:
+URL central: https://www.kaieteurnewsonline.com
+URL filiales:
+- No identificadas en este listado
+
+News Room Guyana:
+URL central: https://newsroom.gy
+URL filiales:
+- No identificadas en este listado
+
+
+MALI:
+
+L’Essor:
+URL central: https://lessor.ml
+URL filiales:
+- No identificadas en este listado
+
+Maliweb:
+URL central: https://www.maliweb.net
+URL filiales:
+- No identificadas en este listado
+
+Malijet:
+URL central: https://malijet.com
+URL filiales:
+- No identificadas en este listado
+
+aBamako:
+URL central: https://news.abamako.com
+URL filiales:
+- No identificadas en este listado
+
+Maliactu:
+URL central: https://maliactu.net
+URL filiales:
+- No identificadas en este listado
+
+ORTM:
+URL central: https://www.ortm.ml
+URL filiales:
+- No identificadas en este listado
+
+Studio Tamani:
+URL central: https://www.studiotamani.org
+URL filiales:
+- No identificadas en este listado
+
+
+BURKINA FASO:
+
+Sidwaya:
+URL central: https://www.sidwaya.info
+URL filiales:
+- No identificadas en este listado
+
+Burkina24:
+URL central: https://burkina24.com
+URL filiales:
+- No identificadas en este listado
+
+Le Faso:
+URL central: https://lefaso.net
+URL filiales:
+- No identificadas en este listado
+
+Faso7:
+URL central: https://faso7.com
+URL filiales:
+- No identificadas en este listado
+
+L’Observateur Paalga:
+URL central: https://www.lobservateur.bf
+URL filiales:
+- No identificadas en este listado
+
+Le Pays:
+URL central: https://lepays.bf
+URL filiales:
+- No identificadas en este listado
+
+
+NÍGER:
+
+Le Sahel:
+URL central: https://www.lesahel.org
+URL filiales:
+- No identificadas en este listado
+
+ActuNiger:
+URL central: https://www.actuniger.com
+URL filiales:
+- No identificadas en este listado
+
+Agence Nigérienne de Presse / ANP:
+URL central: http://www.anp.ne
+URL filiales:
+- No identificadas en este listado
+
+Niger Inter:
+URL central: https://nigerinter.com
+URL filiales:
+- No identificadas en este listado
+
+Aïr Info:
+URL central: https://airinfoagadez.com
+URL filiales:
+- No identificadas en este listado
+
+
+SENEGAL:
+
+Agence de Presse Sénégalaise / APS:
+URL central: https://aps.sn
+URL filiales:
+- No identificadas en este listado
+
+Le Soleil:
+URL central: https://lesoleil.sn
+URL filiales:
+- No identificadas en este listado
+
+Seneweb:
+URL central: https://www.seneweb.com
+URL filiales:
+- No identificadas en este listado
+
+Dakaractu:
+URL central: https://www.dakaractu.com
+URL filiales:
+- No identificadas en este listado
+
+Sud Quotidien:
+URL central: https://www.sudquotidien.sn
+URL filiales:
+- No identificadas en este listado
+
+
+COSTA DE MARFIL:
+
+Fraternité Matin:
+URL central: https://www.fratmat.info
+URL filiales:
+- No identificadas en este listado
+
+Abidjan.net:
+URL central: https://news.abidjan.net
+URL filiales:
+- No identificadas en este listado
+
+Agence Ivoirienne de Presse / AIP:
+URL central: https://www.aip.ci
+URL filiales:
+- No identificadas en este listado
+
+Linfodrome:
+URL central: https://www.linfodrome.com
+URL filiales:
+- No identificadas en este listado
+
+Jeune Afrique – Côte d’Ivoire:
+URL central: https://www.jeuneafrique.com/pays/cote-divoire/
+URL filiales:
+- No identificadas en este listado
+
+
+SUDÁFRICA:
+
+Daily Maverick:
+URL central: https://www.dailymaverick.co.za
+URL filiales:
+- No identificadas en este listado
+
+Mail & Guardian:
+URL central: https://mg.co.za
+URL filiales:
+- No identificadas en este listado
+
+
+KENIA:
+
+The Nation Kenya:
+URL central: https://nation.africa
+URL filiales:
+- No identificadas en este listado
+
+
+NIGERIA:
+
+Premium Times:
+URL central: https://www.premiumtimesng.com
+URL filiales:
+- No identificadas en este listado
+
+Vanguard Nigeria:
+URL central: https://www.vanguardngr.com
+URL filiales:
+- No identificadas en este listado
+
+
+ÁFRICA / REGIONAL:
+
+Africanews:
+URL central: https://www.africanews.com
+URL filiales:
+- No identificadas en este listado
+
+The Africa Report:
+URL central: https://www.theafricareport.com
+URL filiales:
+- No identificadas en este listado
+
+
+ISRAEL:
+
+Haaretz:
+URL central: https://www.haaretz.com
+URL filiales:
+- No identificadas en este listado
+
+Times of Israel:
+URL central: https://www.timesofisrael.com
+URL filiales:
+- No identificadas en este listado
+
+Jerusalem Post:
+URL central: https://www.jpost.com
+URL filiales:
+- No identificadas en este listado
+
+
+ARABIA SAUDITA:
+
+Arab News:
+URL central: https://www.arabnews.com
+URL filiales:
+- No identificadas en este listado
+
+Asharq Al-Awsat:
+URL central: https://english.aawsat.com
+URL filiales:
+- No identificadas en este listado
+
+
+EMIRATOS ÁRABES UNIDOS:
+
+The National:
+URL central: https://www.thenationalnews.com
+URL filiales:
+- No identificadas en este listado
+
+
+MEDIO ORIENTE / REGIONAL:
+
+Middle East Eye:
+URL central: https://www.middleeasteye.net
+URL filiales:
+- No identificadas en este listado
+
+Al-Monitor:
+URL central: https://www.al-monitor.com
+URL filiales:
+- No identificadas en este listado
+
+
+INDIA:
+
+The Hindu:
+URL central: https://www.thehindu.com
+URL filiales:
+- No identificadas en este listado
+
+Hindustan Times:
+URL central: https://www.hindustantimes.com
+URL filiales:
+- No identificadas en este listado
+
+
+PAKISTÁN:
+
+Dawn:
+URL central: https://www.dawn.com
+URL filiales:
+- No identificadas en este listado
+
+The Nation Pakistan:
+URL central: https://www.nation.com.pk
+URL filiales:
+- No identificadas en este listado
+
+
+SINGAPUR:
+
+The Straits Times:
+URL central: https://www.straitstimes.com
+URL filiales:
+- No identificadas en este listado
+
+Lianhe Zaobao:
+URL central: https://www.zaobao.com.sg
+URL filiales:
+- No identificadas en este listado
+
+
+HONG KONG:
+
+South China Morning Post:
+URL central: https://www.scmp.com
+URL filiales:
+- No identificadas en este listado
+
+
+TAILANDIA:
+
+Bangkok Post:
+URL central: https://www.bangkokpost.com
+URL filiales:
+- No identificadas en este listado
+
+
+INDONESIA:
+
+The Jakarta Post:
+URL central: https://www.thejakartapost.com
+URL filiales:
+- No identificadas en este listado
+
+
+ASIA-PACÍFICO / REGIONAL:
+
+The Diplomat:
+URL central: https://thediplomat.com
+URL filiales:
+- No identificadas en este listado
+
+
+PAÍSES BAJOS / REINO UNIDO:
+
+Bellingcat:
+URL central: https://www.bellingcat.com
+URL filiales:
+- No identificadas en este listado
